@@ -75,11 +75,17 @@ Expected Solution:
 
    <img width="6440" height="1240" alt="FarmDirect_flowchart" src="https://github.com/user-attachments/assets/fc59fe3c-a94a-4040-983c-1fcb89569904" />
                                Figure 1. Process flow of FarmDirect
+   
     1.	Onboarding: farmers and FPOs register and list produce with quantity, grade, price and photos.
+  
     2.	Ordering: consumers and bulk buyers browse, order and pay. The payment is held until delivery is confirmed.
+   
     3.	AI engine: past orders, season and festival demand and mandi prices feed a forecasting model. It suggests a fair price band and expected demand.
+  
     4.	Route optimization: orders in the same area are grouped, and OR-Tools plans the pickup and delivery routes for the vehicles.
+   
     5.	Delivery and payout: the buyer confirms delivery and the farmer receives the payout through UPI.
+   
     6.	Prototype scope: a working prototype with farmer listing, buyer ordering, the price-breakup screen and a route map for one area.
 
 
