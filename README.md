@@ -1,3 +1,4 @@
+
 # Smart India Hackathon Workshop
 # Date: 23/11/2026
 ## Reference Number: 26019363
@@ -68,6 +69,8 @@ Expected Solution:
 
 <img width="761" height="392" alt="Screenshot 2026-11-23 111117" src="https://github.com/user-attachments/assets/716ca69b-44c7-4678-bd50-97e1d2609444" />
 
+Diagram:
+<img width="5100" height="2820" alt="FarmDirect_technical_architecture" src="https://github.com/user-attachments/assets/a1e103b9-c736-4daf-aa3a-275e8d4cc375" />
 
 
 3. Methodology and process for implementation
