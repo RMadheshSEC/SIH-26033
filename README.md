@@ -73,8 +73,7 @@ Expected Solution:
 3. Methodology and process for implementation
 
 
-   <img width="6440" height="1240" alt="FarmDirect_flowchart" src="https://github.com/user-attachments/assets/fc59fe3c-a94a-4040-983c-1fcb89569904" />
-                               Figure 1. Process flow of FarmDirect
+   <img width="6440" height="1240" alt="FarmDirect_flowchart" src="https://github.com/user-attachments/assets/fc59fe3c-a94a-4040-983c-1fcb89569904" />Figure 1. Process flow of FarmDirect
    
     1.	Onboarding: farmers and FPOs register and list produce with quantity, grade, price and photos.
   
