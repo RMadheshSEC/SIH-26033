@@ -15,18 +15,18 @@ Agriculture, FoodTech & Rural Development
 ## Problem Description
 Expected Solution: Create a digital marketplace that:
 
-   • Connects farmers/FPOs directly with consumers and bulk buyers.
-   • Provides logistics support.
-   • Uses AI for demand forecasting and route optimization.
+   •    Connects farmers/FPOs directly with consumers and bulk buyers.
+   •    Provides logistics support.
+   •    Uses AI for demand forecasting and route optimization.
 
 Benefits:
 
-   • Better prices for farmers.
-   • Lower prices for consumers.
-   • Reduced supply chain inefficiencies.
+   •    Better prices for farmers.
+   •    Lower prices for consumers.
+   •    Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-1. Detailed explanation of the proposed solution
+1. Detailed explanation of the proposed solution.
 FarmDirect is a mobile and web marketplace that connects farmers and Farmer Producer Organizations (FPOs) directly with consumers, hotels and bulk buyers.
 
      •	  Farmers and FPOs list their produce with quantity, quality grade, price and available dates. Listing is possible by voice in regional languages (for example Tamil and Hindi) so that farmers with limited literacy can use it.
@@ -37,7 +37,7 @@ FarmDirect is a mobile and web marketplace that connects farmers and Farmer Prod
 
      •	  An AI engine forecasts demand and suggests a fair price band, and a route optimizer plans pickups and deliveries.
 
-2. How it addresses the problem
+3. How it addresses the problem
 
      •	  The marketplace removes the middle layers (commission agents, multiple traders) between the farm and the buyer, so the farmer keeps a larger share and the buyer pays less.
 
@@ -47,7 +47,7 @@ FarmDirect is a mobile and web marketplace that connects farmers and Farmer Prod
 
      •	  Pooled route optimization combines orders from nearby farmers into shared trips, so small farmers can afford delivery.
 
-3. Innovation and uniqueness of the solution
+4. Innovation and uniqueness of the solution
 
      •	  Price transparency: a visible breakup of farmer share, logistics cost and platform fee for every order.
 
