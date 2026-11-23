@@ -28,8 +28,8 @@ Benefits:
 ## Proposed Solution
 1. Detailed explanation of the proposed solution
 FarmDirect is a mobile and web marketplace that connects farmers and Farmer Producer Organizations (FPOs) directly with consumers, hotels and bulk buyers.
-  •	Farmers and FPOs list their produce with quantity, quality grade, price and available dates. Listing is possible by voice in regional languages (for example Tamil and Hindi) so that farmers with limited literacy can use it.
-  • 	Buyers browse by location and freshness, place single or bulk orders, and pay through UPI or other digital payment.
+•	Farmers and FPOs list their produce with quantity, quality grade, price and available dates. Listing is possible by voice in regional languages (for example Tamil and Hindi) so that farmers with limited literacy can use it.
+• 	Buyers browse by location and freshness, place single or bulk orders, and pay through UPI or other digital payment.
   •	Logistics support is built in. Produce is collected at a village or FPO hub, and the platform arranges transport and delivery.
   •	An AI engine forecasts demand and suggests a fair price band, and a route optimizer plans pickups and deliveries.
 2. How it addresses the problem
