@@ -37,7 +37,6 @@ FarmDirect is a mobile and web marketplace that connects farmers and Farmer Prod
 
   •	An AI engine forecasts demand and suggests a fair price band, and a route optimizer plans pickups and deliveries.
 
-
 2. How it addresses the problem
 
   •	The marketplace removes the middle layers (commission agents, multiple traders) between the farm and the buyer, so the farmer keeps a larger share and the buyer pays less.
@@ -47,7 +46,6 @@ FarmDirect is a mobile and web marketplace that connects farmers and Farmer Prod
   •	Demand forecasting tells farmers what and how much buyers are likely to order, which reduces unsold stock and wastage.
 
   •	Pooled route optimization combines orders from nearby farmers into shared trips, so small farmers can afford delivery.
-
 
 4. Innovation and uniqueness of the solution
 
@@ -62,9 +60,6 @@ FarmDirect is a mobile and web marketplace that connects farmers and Farmer Prod
 
 ## Technical Approach
 <img width="761" height="392" alt="Screenshot 2026-11-23 111117" src="https://github.com/user-attachments/assets/716ca69b-44c7-4678-bd50-97e1d2609444" />
-
-
-
 
 3. Methodology and process for implementation
    <img width="6440" height="1240" alt="FarmDirect_flowchart" src="https://github.com/user-attachments/assets/fc59fe3c-a94a-4040-983c-1fcb89569904" />
