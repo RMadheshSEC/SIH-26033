@@ -45,25 +45,14 @@ FarmDirect is a mobile and web marketplace that connects farmers and Farmer Prod
 
 
 ## Technical Approach
-1. Technologies to be used
-Layer	Technology
-Mobile app	React Native
-Web app	React
-Backend	Node.js (Express) or Django REST Framework
-Database	PostgreSQL
-AI / forecasting	Python, Prophet or LSTM (demand forecasting)
-Route optimization	Google OR-Tools (vehicle routing problem)
-Maps and location	Google Maps API
-Payments	UPI / Razorpay
-Notifications	SMS and WhatsApp
-Price data	Agmarknet (mandi prices)
-Voice input	Speech-to-text for regional languages
+<img width="761" height="392" alt="Screenshot 2026-11-23 111117" src="https://github.com/user-attachments/assets/716ca69b-44c7-4678-bd50-97e1d2609444" />
 
 
 
-3. Methodology and process for implemen
-[SIH_26033_FarmDirect.docx](https://github.com/user-attachments/files/35258884/SIH_26033_FarmDirect.docx)tation
- Figure 1. Process flow of FarmDirect
+
+3. Methodology and process for implementation
+   <img width="6440" height="1240" alt="FarmDirect_flowchart" src="https://github.com/user-attachments/assets/fc59fe3c-a94a-4040-983c-1fcb89569904" />
+   Figure 1. Process flow of FarmDirect
 1.	Onboarding: farmers and FPOs register and list produce with quantity, grade, price and photos.
 2.	Ordering: consumers and bulk buyers browse, order and pay. The payment is held until delivery is confirmed.
 3.	AI engine: past orders, season and festival demand and mandi prices feed a forecasting model. It suggests a fair price band and expected demand.
