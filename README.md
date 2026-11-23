@@ -15,11 +15,13 @@ Agriculture, FoodTech & Rural Development
 ## Problem Description
 Expected Solution: 
 1. Create a digital marketplace that:
+
      •     Connects farmers/FPOs directly with consumers and bulk buyers.
      •     Provides logistics support.
      •     Uses AI for demand forecasting and route optimization.
 
-2. Benefits:
+3. Benefits:
+
      •     Better prices for farmers.
      •     Lower prices for consumers.
      •     Reduced supply chain inefficiencies.
